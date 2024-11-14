@@ -23,7 +23,7 @@ body{
     max-width: 20vw;
     min-width: 10vw;
     padding-inline: 3vw;
-    padding-block: 3vh;
+    padding-block: 4vh;
 }
 .logo img {
     width: 100%;
@@ -42,7 +42,7 @@ body{
     background-color: whitesmoke;
     border: none;
     border-radius: 3px;
-    margin-bottom: 10vh;
+    margin-bottom: 8vh;
     color: rgb(50, 50, 156);
 }
 .login-form{
@@ -93,4 +93,5 @@ body{
 }
 .fgpassword p a{
     color: rgb(20, 82, 20);
+    text-decoration: none;
 }
